@@ -1,1 +1,1 @@
-# Projeto Recriando a página inicial do Instagram 
+# Projeto Recriando a Página Inicial do Instagram 
