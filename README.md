@@ -1,2 +1,1 @@
-# Projeto Recriando a Página Inicial do Instagram ![image](https://user-images.githubusercontent.com/91577075/173857961-5c81a69e-6b58-4505-b95f-3254ae14b413.png)
-
+# Projeto Recriando a Página Inicial do Instagram ![icone-instagram](https://user-images.githubusercontent.com/91577075/173858469-de0f3417-fc34-4dec-b860-6e1fcc9d2f17.png)
